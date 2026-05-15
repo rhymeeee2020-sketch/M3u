@@ -1,0 +1,4 @@
+#EXTM3U
+#SOURCEIT
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Bangladesh Television
+http://172.16.16.100:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=f52e6d59715033d6874e2235d0517528cf5b9921-3ee1e03f9e2a2e854f830e525f9232fa-1778860439-1778849639
