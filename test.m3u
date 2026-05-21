@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.ATN NEWS
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla",01.ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a430f9c80251705259257.jpg"group-title="Bangla",02.CHANNEL 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
@@ -9,7 +9,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a43ac0d1ffc1705261760.jpg"group-title="Bangla",05.JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=442000.m3u8
-#EXTINF:-1 tvg-logo"https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg"=group-title="Bangla",06.SOMOY TV
+#EXTINF:-1 tvg-logo"https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png"=group-title="Bangla",06.SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=442000.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/1/ntv-channel-logo-png_seeklogo-396286.png"group-title="Bangla",07.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=442000.m3u8
@@ -25,10 +25,5 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=442000.m3u8
 #EXTINF:-1 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a434c34a7dc1705260227.jpg"group-title="Bangla",13.EKUSHEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/1/ekushe-tv-etv-logo-png_seeklogo-396361.png"group-title="Bangla",14.BANGLA VISION
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="Bangla",15.STAR NEWS
+#EXTINF:-1 group-title="Bangla",14.STAR NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
-#EXTINF:-1 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43c1d216961705262109.jpg"group-title="Bangla",16.MY TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8 
-
