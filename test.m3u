@@ -13,5 +13,5 @@ http://172.16.16.100:8082/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=3754abaa277
 http://172.16.16.100:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=ff170295f2f21a0cfb2d04ed0ee97161f4cfdf4e-1d7f8397ac7957b3f000d21c2c1bf504-1779369616-1779358816
 #EXTINF:-1 group-title="Bangla",07.MASRANGA TV
 http://172.16.16.100:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=ff170295f2f21a0cfb2d04ed0ee97161f4cfdf4e-1d7f8397ac7957b3f000d21c2c1bf504-1779369616-1779358816
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangla",08.SOMOY TV
+#EXTINF:-1 group-title="Bangla",08.SOMOY TV
 http://172.16.16.100:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=8f448d291b5a45bb8c94854cfca9db3092f1421b-19ac9b6a2614a654a2a1154bdfe039b8-1779369639-1779358839
