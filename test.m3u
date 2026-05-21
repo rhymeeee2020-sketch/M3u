@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.ATN BANGLA
-http://172.16.16.100:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=f52e6d59715033d6874e2235d0517528cf5b9921-3ee1e03f9e2a2e854f830e525f9232fa-1778860439-1778849639
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Bangla",02.GAZI TV
 http://172.16.16.100:8082/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=f7ec2e37b08b08c31a760f443e721f920a235323-0f7d8b6d17bce9649ae7fbec1ac99338-1779369566-1779358766
 #EXTINF:-1 group-title="Bangla",03.CHANNEL 24
