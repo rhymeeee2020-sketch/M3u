@@ -1,19 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="Bangla",02.GAZI TV
-http://172.16.16.100:8082/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=f7ec2e37b08b08c31a760f443e721f920a235323-0f7d8b6d17bce9649ae7fbec1ac99338-1779369566-1779358766
 #EXTINF:-1 group-title="Bangla",03.CHANNEL 24
-http://172.16.16.100:8082/CHANNEL.24.HD/tracks-a1/mono.m3u8?token=993aa35d6ddf03ac6716b962303b79ac49d77ab4-a13fa5fff5f5a9ae8433f9017f4d068a-1779369579-1779358779
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangla",04.CHANNEL I
-http://172.16.16.100:8082/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?token=bedf7439582d8a4f700956e682fe132d5c8c830e-1694401997b6b3738040a31dab5f7c7f-1779369589-1779358789
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=442000.m3u8
 #EXTINF:-1 group-title="Bangla",05.INDEPENDENT TV
-http://172.16.16.100:8082/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=3754abaa277d984f02d1c34afe01457da933e3f5-c6c89f1aa4d071fe3d941a974930757a-1779369607-1779358807
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangla",06.JAMUNA TV
-http://172.16.16.100:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=ff170295f2f21a0cfb2d04ed0ee97161f4cfdf4e-1d7f8397ac7957b3f000d21c2c1bf504-1779369616-1779358816
-#EXTINF:-1 group-title="Bangla",07.MASRANGA TV
-http://172.16.16.100:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=ff170295f2f21a0cfb2d04ed0ee97161f4cfdf4e-1d7f8397ac7957b3f000d21c2c1bf504-1779369616-1779358816
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=442000.m3u8
 #EXTINF:-1 group-title="Bangla",08.SOMOY TV
-http://172.16.16.100:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=8f448d291b5a45bb8c94854cfca9db3092f1421b-19ac9b6a2614a654a2a1154bdfe039b8-1779369639-1779358839
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=442000.m3u8
 #EXTINF:-1 group-title="Bangla",09.NTV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/n_tv_576/n_tv_576.m3u8?bitrate=1000000&channel=n_tv_576&gp_id
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=442000.m3u8
