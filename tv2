@@ -28,7 +28,7 @@ https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 
-#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Channels",T Sports HD
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="SPORTS",T Sports HD
 https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" tvg-name="Gazi TV" tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" group-title="Channels",Gazi TV
@@ -94,5 +94,7 @@ https://tvsen6.aynaott.com/mytv/index.m3u8
 #EXTINF:-1 tvg-id="a108c4e9-ccfa-42f2-8f8f-169ded28cca2" tvg-name="Ananda TV" tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f" group-title="Channels",Ananda TV
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 
-#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
+#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="SPORTS",A sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.journalismpakistan.com/news/debt-and-mismanagement-bring-ptv-sports-to-the-brink-of-collapse1.jpg" group-title="SPORTS",PTV sports
+http://172.16.16.100:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=795b4d1d514f6054f1ca03f4d0267af223ac2ad9-af417c5e5aa8bb83f7c24c547211f55e-1779440693-1779429893
