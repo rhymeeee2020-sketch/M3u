@@ -96,5 +96,36 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="SPORTS",A sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.journalismpakistan.com/news/debt-and-mismanagement-bring-ptv-sports-to-the-brink-of-collapse1.jpg" group-title="SPORTS",PTV sports
 http://172.16.16.100:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=795b4d1d514f6054f1ca03f4d0267af223ac2ad9-af417c5e5aa8bb83f7c24c547211f55e-1779440693-1779429893
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SPORTS",SONY SPORTS 1
+http://172.16.16.100:8082/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=cf74ca6fa1c090b97782c4a634020035d6ecc458-8a33eae8f1604eb0dac5ff1145562c2a-1779441541-1779430741
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY SPORTS 2
+http://172.16.16.100:8082/SONY.SPORTS2.HD/index.m3u8?token=efe7a52b8b1a715c81ed85369d4dc98332de9891-bd38bf08805f64c6725e938a3783ed27-1779441651-1779430851&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY SPORTS 3
+http://172.16.16.100:8082/SONY.SPORTS.3/index.m3u8?token=e8aed4c9e7fe18d30cb5fc23e373fd1bf061f1df-e656e7540918f7f9d663302c71690f42-1779441684-1779430884&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY SPORTS 4
+http://172.16.16.100:8082/SONY.SPORTS.4/index.m3u8?token=d0b21505b54d8ccd0c59a9b2dc7bb8f8dd4e48a0-f6bf1bbe6d161470e20a2ea35ca2b35b-1779441739-1779430939&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY SPORTS 5
+http://172.16.16.100:8082/SONY-SPORTS.5HD/index.m3u8?token=73250fb4ce0e3fd431b5c897e3b1f8f082b878be-cc1a6b60edc19231cdc27fe20cc6da25-1779441765-1779430965&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS SELECT 1
+http://172.16.16.100:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=142be3968d4b6907be2fed070a7dcd6303cbe98b-581eca0199852064efe9699615fb5dcf-1779441786-1779430986&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS 1
+http://172.16.16.100:8082/STAR.SPORTS1.HD/index.m3u8?token=28d09378569a199281830e13229c161053181fed-7f9807b4609a73988693320e470566f2-1779441825-1779431025&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS 2
+http://172.16.16.100:8082/STAR.SPORTS2.HD/index.m3u8?token=238b45b739ca0f7b013493ec04414f5cae449367-c5882957dc97f635e4c873276a328133-1779441861-1779431061&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS 3
+http://172.16.16.100:8082/STAR-SPORTS.3/index.m3u8?token=dee954a0963afcbbf34f35af92396ebd6870341a-4b94ecdebba23778edf7610e75d00b60-1779441890-1779431090&remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS SELECT 2
+http://172.16.16.100:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=4706f2e4dfe87a9f40f033d40c2eb93d39c36832-29ab478ce9d7ae8dd12fb24465826f83-1779441913-1779431113&remote=no_check_ip
