@@ -29,7 +29,7 @@ https://tvsen6.aynaott.com/etv/index.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="SPORTS",T Sports HD
-https://tvsen5.aynaott.com/tsports/index.m3u8
+http://172.16.16.100:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=e41059677e29d7b20919bafdb01f634e652c37d6-c2181aa3b92008847469f4f490f89375-1779441166-1779430366
 
 #EXTINF:-1 tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" tvg-name="Gazi TV" tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" group-title="Channels",Gazi TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
