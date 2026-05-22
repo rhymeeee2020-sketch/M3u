@@ -29,7 +29,8 @@ https://tvsen6.aynaott.com/etv/index.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="SPORTS",T Sports HD
-http://172.16.16.100:8082/T-SPORTS-HD/index.m3u8?token=e41059677e29d7b20919bafdb01f634e652c37d6-c2181aa3b92008847469f4f490f89375-1779441166-1779430366&remote=no_check_ip
+http://198.195.239.50:8095/Tsports/index.m3u8
+
 
 #EXTINF:-1 tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" tvg-name="Gazi TV" tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" group-title="Channels",Gazi TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
@@ -97,35 +98,29 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="SPORTS",A sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.journalismpakistan.com/news/debt-and-mismanagement-bring-ptv-sports-to-the-brink-of-collapse1.jpg" group-title="SPORTS",PTV sports
-http://172.16.16.100:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=795b4d1d514f6054f1ca03f4d0267af223ac2ad9-af417c5e5aa8bb83f7c24c547211f55e-1779440693-1779429893
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SPORTS",SONY SPORTS 1
-http://172.16.16.100:8082/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=cf74ca6fa1c090b97782c4a634020035d6ecc458-8a33eae8f1604eb0dac5ff1145562c2a-1779441541-1779430741
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="SPORTS",SONY SPORTS 2
-http://172.16.16.100:8082/SONY.SPORTS2.HD/index.m3u8?token=efe7a52b8b1a715c81ed85369d4dc98332de9891-bd38bf08805f64c6725e938a3783ed27-1779441651-1779430851&remote=no_check_ip
+http://198.195.239.50:8095/SonyTenSports2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest?cb=20221025085433" group-title="SPORTS",SONY SPORTS 3
-http://172.16.16.100:8082/SONY.SPORTS.3/index.m3u8?token=e8aed4c9e7fe18d30cb5fc23e373fd1bf061f1df-e656e7540918f7f9d663302c71690f42-1779441684-1779430884&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest?cb=20221025090401" group-title="SPORTS",SONY SPORTS 4
-http://172.16.16.100:8082/SONY.SPORTS.4/index.m3u8?token=d0b21505b54d8ccd0c59a9b2dc7bb8f8dd4e48a0-f6bf1bbe6d161470e20a2ea35ca2b35b-1779441739-1779430939&remote=no_check_ip
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",euro sports
+http://198.195.239.50:8095/Eurosport/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest?cb=20221025091902" group-title="SPORTS",SONY SPORTS 5
-http://172.16.16.100:8082/SONY-SPORTS.5HD/index.m3u8?token=73250fb4ce0e3fd431b5c897e3b1f8f082b878be-cc1a6b60edc19231cdc27fe20cc6da25-1779441765-1779430965&remote=no_check_ip
+http://198.195.239.50:8095/SonyTenSports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SPORTS",STAR SPORTS SELECT 1
-http://172.16.16.100:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=142be3968d4b6907be2fed070a7dcd6303cbe98b-581eca0199852064efe9699615fb5dcf-1779441786-1779430986&remote=no_check_ip
+http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="SPORTS",STAR SPORTS 1
-http://172.16.16.100:8082/STAR.SPORTS1.HD/index.m3u8?token=28d09378569a199281830e13229c161053181fed-7f9807b4609a73988693320e470566f2-1779441825-1779431025&remote=no_check_ip
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835" group-title="SPORTS",STAR SPORTS 2
-http://172.16.16.100:8082/STAR.SPORTS2.HD/index.m3u8?token=238b45b739ca0f7b013493ec04414f5cae449367-c5882957dc97f635e4c873276a328133-1779441861-1779431061&remote=no_check_ip
+http://198.195.239.50:8095/StarSports2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",STAR SPORTS 3
-http://172.16.16.100:8082/STAR-SPORTS.3/index.m3u8?token=dee954a0963afcbbf34f35af92396ebd6870341a-4b94ecdebba23778edf7610e75d00b60-1779441890-1779431090&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="SPORTS",STAR SPORTS SELECT 2
-http://172.16.16.100:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=4706f2e4dfe87a9f40f033d40c2eb93d39c36832-29ab478ce9d7ae8dd12fb24465826f83-1779441913-1779431113&remote=no_check_ip
+http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
+
