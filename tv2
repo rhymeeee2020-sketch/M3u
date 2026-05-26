@@ -115,3 +115,7 @@ http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="SPORTS",STAR SPORTS SELECT 2
 http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
 
+
+#EXTINF:-1 group-title="🎬 Movies", Your Name (2016)
+
+https://cineby.io/movie/1380291/watch
