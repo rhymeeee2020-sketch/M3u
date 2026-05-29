@@ -116,26 +116,6 @@ http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
 
 
-#EXTINF:-1 group-title="🎬 Movies", Your Name (2016)
-
-https://www.ftpbd.net/FILE--SERVER/FTP-3/Foreign%20Language%20Movies/Chinese-Language/Panda-Plan-2-2026/Panda-Plan-2-2026-1080p-Hindi-Dubbed_reencoded.mp4
-
-#EXTINF:-1 group-title="SPORTS",STAR SPORTS 1
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778413.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS",STAR SPORTS 2
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778412.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS",STAR SPORTS 3
-
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778411.m3u8
-
-#EXTINF:-1 group-title="SPORTS",STAR SPORTS 1 hindi
-
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778408.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1 HD" tvg-logo="https://lo1.in/ger/skysp.png" group-title="FOOTBALL", SKY SPORT 1 HD 
 
@@ -172,3 +152,45 @@ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33614.m3u8
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 FHD" tvg-logo="https://lo1.in/ind/snytn3.png" group-title="FOOTBALL", SONY TEN 3 FHD 
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/97527.m3u8 
+
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="FOOTBALL",UK| SKY SPORTS PREMIER LEAGUE FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29016.m3u8 
+
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL FHD" tvg-logo="https://lo1.in/uk/skyspfb.png" group-title="FOOTBALL",UK| SKY SPORTS FOOTBALL FHD
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29018.m3u8 
+
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="IN| STAR SPORTS 1 FHD" tvg-logo="https://lo1.in/ind/starsp1.png" group-title="CRICKET",IN| STAR SPORTS 1 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33619.m3u8
+
+ #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://lo1.in/ind/starsp2.png" group-title="CRICKET",IN| STAR SPORTS 2 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/97523.m3u8 
+
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN| STAR SPORTS 3 HD" tvg-logo="https://lo1.in/ind/strsp3.png" group-title="CRICKET",IN| STAR SPORTS 3 HD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132081.m3u8 
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://lo1.in/ind/strsps1.png" group-title="CRICKET",IN| STAR SPORTS SELECT 1 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/97522.m3u8 
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://lo1.in/ind/strsps2.png" group-title="CRICKET",IN| STAR SPORTS SELECT 2 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/96681.m3u8 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN| TEN SPORTS FHD" tvg-logo="https://lo1.in/ind/tensp1.png" group-title="CRICKET",IN| TEN SPORTS FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/96679.m3u8 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTV SPORTS RAW HD" tvg-logo="https://lo1.in/ind/ptsp.png" group-title="CRICKET",IN| PTV SPORTS RAW HD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/3218.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="IN| WILLOW CRICKET HD" tvg-logo="https://lo1.in/ind/WILLOW CRICKET HD.png" group-title="CRICKET",IN| WILLOW CRICKET HD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/5788.m3u8 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN| ASTRO CRICKET HD" tvg-logo="https://lo1.in/MALAY/astroaur.png" group-title="CRICKET",IN| ASTRO CRICKET HD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/1279147.m3u8 
+
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="https://lo1.in/uk/skyspcrk0.png" group-title="CRICKET",UK| SKY SPORTS CRICKET FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29020.m3u8 
