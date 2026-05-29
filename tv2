@@ -119,3 +119,40 @@ http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
 #EXTINF:-1 group-title="🎬 Movies", Your Name (2016)
 
 https://www.ftpbd.net/FILE--SERVER/FTP-3/Foreign%20Language%20Movies/Chinese-Language/Panda-Plan-2-2026/Panda-Plan-2-2026-1080p-Hindi-Dubbed_reencoded.mp4
+
+EXTINF:-1 group-title="SPORTS",STAR SPORTS 1
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778413.m3u8
+
+
+
+EXTINF:-1 group-title="SPORTS",STAR SPORTS 2
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778412.m3u8
+
+
+EXTINF:-1 group-title="SPORTS",STAR SPORTS 3
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778411.m3u8
+
+EXTINF:-1 group-title="SPORTS",STAR SPORTS 1 hindi
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778408.m3u8
+
+EXTINF:-1 group-title="SPORTS",SONY TEN 1
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33613.m3u8
+
+
+EXTINF:-1 group-title="SPORTS",SONY TEN 2
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33614.m3u8
+
+EXTINF:-1 group-title="SPORTS",SONY TEN 3
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/97527.m3u8
+EXTINF:-1 group-title="SPORTS",SONY TEN 4
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/197500.m3u8
+
+EXTINF:-1 group-title="SPORTS",PTV SPORTS
+
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/3220.m3u8
