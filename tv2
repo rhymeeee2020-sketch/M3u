@@ -137,20 +137,38 @@ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778411.m3u8
 
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/778408.m3u8
 
-#EXTINF:-1 group-title="SPORTS",SONY TEN 1
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1 HD" tvg-logo="https://lo1.in/ger/skysp.png" group-title="FOOTBALL", SKY SPORT 1 HD 
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/844234.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2 FHD" tvg-logo="https://lo1.in/ger/skysp2.png" group-title="FOOTBALL", SKY SPORT 2 FHD 
+
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/844233.m3u8
+
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT SPORT 1 FHD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="FOOTBALL",  TNT SPORT 1 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29036.m3u8 
+
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="TNT SPORT 2 FHD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="FOOTBALL",TNT SPORT 2 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29038.m3u8 
+
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="TNT SPORT 3 FHD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="FOOTBALL", TNT SPORT 3 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29040.m3u8 
 
 
-#EXTINF:-1 group-title="SPORTS",SONY TEN 2
+ #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 01 HD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="FOOTBALL", BEIN SPORTS 01 HD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/7866.m3u8
 
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33614.m3u8
+  #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 02 HD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="FOOTBALL", BEIN SPORTS 02 HD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/59.m3u8  
 
-#EXTINF:-1 group-title="SPORTS",SONY TEN 3
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 03 HD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="FOOTBALL", BEIN SPORTS 03 HD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/60.m3u8 
 
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/97527.m3u8
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://lo1.in/ind/snytn1.png" group-title="FOOTBALL", SONY TEN 1 FHD
+ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33613.m3u8 
 
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 FHD" tvg-logo="https://lo1.in/ind/snytn2.png" group-title="FOOTBALL", SONY TEN 2 FHD 
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33614.m3u8 
 
-#EXTINF:-1 group-title="SPORTS",PTV SPORTS
-
-
-http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/3220.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 FHD" tvg-logo="https://lo1.in/ind/snytn3.png" group-title="FOOTBALL", SONY TEN 3 FHD 
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/97527.m3u8 
