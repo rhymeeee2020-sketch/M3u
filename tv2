@@ -194,3 +194,6 @@ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29018.m3u8
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="https://lo1.in/uk/skyspcrk0.png" group-title="CRICKET",UK| SKY SPORTS CRICKET FHD
  http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29020.m3u8 
+
+#EXTINF:-1 tvg-name="bein 1" group-title="football wc",bein 1
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1415174
