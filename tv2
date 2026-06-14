@@ -95,25 +95,16 @@ https://tvsen6.aynaott.com/mytv/index.m3u8
 #EXTINF:-1 tvg-id="a108c4e9-ccfa-42f2-8f8f-169ded28cca2" tvg-name="Ananda TV" tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f" group-title="BANGLA",Ananda TV
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 
-#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="SPORTS",A sports
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="CRICKRT",A sports
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/190726
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="SPORTS",SONY SPORTS 2
-http://198.195.239.50:8095/SonyTenSports2/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="CRICKET",STAR SPORTS SELECT 1
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/778410
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest?cb=20221025091902" group-title="SPORTS",STAR SPORTS 1
-http://198.195.239.50:8095/SonyTenSports5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SPORTS",STAR SPORTS SELECT 1
-http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="SPORTS",STAR SPORTS SELECT 2
-http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="CRICKRT",STAR SPORTS SELECT 2
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/778409
 
 
 
