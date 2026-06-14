@@ -51,7 +51,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" group-title="BANGLA",News 24 BD
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/171464
 
-#EXTINF:-1 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a434c34a7dc1705260227.jpg"group-title="Bangla",13.EKUSHEY TV
+#EXTINF:-1 tvg-name="EKUSHEY TV"tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a434c34a7dc1705260227.jpg"group-title="Bangla",EKUSHEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3" group-title="BANGLA",Ekattor TV
@@ -60,10 +60,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="BANGLA",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=442000.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Bangla",14.STAR NEWS
+#EXTINF:-1 tvg-name="STAR NEWS"group-title="Bangla",STAR NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 
 #EXTINF:-1 tvg-id="c0480a4a-f066-4a20-9f7d-73bbd852260f" tvg-name="My TV" tvg-logo="https://s3.aynaott.com/storage/d93b76211f818fcce66e7f44119ce0be" group-title="BANGLA",My TV
