@@ -158,8 +158,85 @@ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29018.m3u8
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="https://lo1.in/uk/skyspcrk0.png" group-title="CRICKET",UK| SKY SPORTS CRICKET FHD
  http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/29020.m3u8 
 
-#EXTINF:-1 tvg-name="bein 1" group-title="football wc",bein 1
+#EXTINF:-1 tvg-id="directtvsportscheddule.ar" tvg-name="FIFA-ARG| DIRECT TV SPORTS" tvg-logo="https://lo1.in/arg/flg.png" group-title="WORLD CUP 2026 LIVE",FIFA-ARG| DIRECT TV SPORTS
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410777
+
+
+#EXTINF:-1 tvg-id="sbsvicelandhd.au" tvg-name="FIFA-AU| SBS VICELAND NATIONAL HD" tvg-logo="https://lo1.in/aust/sbsfddar0.png" group-title="WORLD CUP 2026 LIVE",FIFA-AU| SBS VICELAND NATIONAL HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410927
+
+
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR-FIFA| BEIN SPORTS MAX 1 4K" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="WORLD CUP 2026 LIVE",AR-FIFA| BEIN SPORTS MAX 1 4K
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1415174
+
+
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR-FIFA| BEIN SPORTS MAX 1 FHD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="WORLD CUP 2026 LIVE",AR-FIFA| BEIN SPORTS MAX 1 FHD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1416017
+
+
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="AR-FIFA| ART ALKASS 2 HD" tvg-logo="https://lo1.in/FCB/alkaas20.png" group-title="WORLD CUP 2026 LIVE",AR-FIFA| ART ALKASS 2 HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1411559
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IR| IRIB TV 3 HD" tvg-logo="https://lo1.in/iran/ii.png" group-title="WORLD CUP 2026 LIVE",FIFA-IR| IRIB TV 3 HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410923
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IR| PERSIANA SPORTS" tvg-logo="https://lo1.in/iran/flg.png" group-title="WORLD CUP 2026 LIVE",FIFA-IR| PERSIANA SPORTS
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410925
+
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="FIFA-CA| (FR) RDS1 HD" tvg-logo="https://lo1.in/ca/rds.png" group-title="WORLD CUP 2026 LIVE",FIFA-CA| (FR) RDS1 HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410742
+
+#EXTINF:-1 tvg-id="foxkhon.us" tvg-name="FIFA-US| FOX 4K" tvg-logo="https://lo1.in/us/fxksa.png" group-title="WORLD CUP 2026 LIVE",FIFA-US| FOX 4K
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1414183
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" group-title="WC EVENTS",PPV| FIFA WORLD CUP 01 [EVENT ONLY]
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1411613
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 2 4K" tvg-logo="https://lo1.in/ppvs/fifa.png" group-title="WC EVENTS",PPV| FIFA WORLD CUP 2 4K
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1416291
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 001 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" group-title="WC EVENTS",PPV| FIFA+ 001 [EVENT ONLY]
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1395798",bein 1
+
+#EXTINF:-1 tvg-id="directtvsportscheddule.ar" tvg-name="FIFA-ARG| DIRECT TV SPORTS" tvg-logo="https://lo1.in/arg/flg.png" group-title="WORLD CUP 2026 LIVE",FIFA-ARG| DIRECT TV SPORTS
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410777
+
+
+#EXTINF:-1 tvg-id="sbsvicelandhd.au" tvg-name="FIFA-AU| SBS VICELAND NATIONAL HD" tvg-logo="https://lo1.in/aust/sbsfddar0.png" group-title="WORLD CUP 2026 LIVE",FIFA-AU| SBS VICELAND NATIONAL HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410927
+
+
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR-FIFA| BEIN SPORTS MAX 1 4K" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="WORLD CUP 2026 LIVE",AR-FIFA| BEIN SPORTS MAX 1 4K
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1415174
+
+
+#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR-FIFA| BEIN SPORTS MAX 1 FHD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="WORLD CUP 2026 LIVE",AR-FIFA| BEIN SPORTS MAX 1 FHD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1416017
+
+
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="AR-FIFA| ART ALKASS 2 HD" tvg-logo="https://lo1.in/FCB/alkaas20.png" group-title="WORLD CUP 2026 LIVE",AR-FIFA| ART ALKASS 2 HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1411559
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IR| IRIB TV 3 HD" tvg-logo="https://lo1.in/iran/ii.png" group-title="WORLD CUP 2026 LIVE",FIFA-IR| IRIB TV 3 HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410923
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA-IR| PERSIANA SPORTS" tvg-logo="https://lo1.in/iran/flg.png" group-title="WORLD CUP 2026 LIVE",FIFA-IR| PERSIANA SPORTS
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410925
+
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="FIFA-CA| (FR) RDS1 HD" tvg-logo="https://lo1.in/ca/rds.png" group-title="WORLD CUP 2026 LIVE",FIFA-CA| (FR) RDS1 HD
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410742
+
+#EXTINF:-1 tvg-id="foxkhon.us" tvg-name="FIFA-US| FOX 4K" tvg-logo="https://lo1.in/us/fxksa.png" group-title="WORLD CUP 2026 LIVE",FIFA-US| FOX 4K
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1414183
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" group-title="WC EVENTS",PPV| FIFA WORLD CUP 01 [EVENT ONLY]
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1411613
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA WORLD CUP 2 4K" tvg-logo="https://lo1.in/ppvs/fifa.png" group-title="WC EVENTS",PPV| FIFA WORLD CUP 2 4K
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1416291
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FIFA+ 001 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/fifa.png" group-title="WC EVENTS",PPV| FIFA+ 001 [EVENT ONLY]
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1395798
 
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="FIFA-CA| TSN 1 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="WORLD CUP 2026 LIVE",FIFA-CA| TSN 1 HD
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1410737
